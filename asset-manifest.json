@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/investment-react-app/static/css/main.25a52f60.css",
-    "main.js": "/investment-react-app/static/js/main.d404443e.js",
+    "main.js": "/investment-react-app/static/js/main.34cbb6a6.js",
     "static/js/453.3dca1736.chunk.js": "/investment-react-app/static/js/453.3dca1736.chunk.js",
     "index.html": "/investment-react-app/index.html",
     "main.25a52f60.css.map": "/investment-react-app/static/css/main.25a52f60.css.map",
-    "main.d404443e.js.map": "/investment-react-app/static/js/main.d404443e.js.map",
+    "main.34cbb6a6.js.map": "/investment-react-app/static/js/main.34cbb6a6.js.map",
     "453.3dca1736.chunk.js.map": "/investment-react-app/static/js/453.3dca1736.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25a52f60.css",
-    "static/js/main.d404443e.js"
+    "static/js/main.34cbb6a6.js"
   ]
 }
